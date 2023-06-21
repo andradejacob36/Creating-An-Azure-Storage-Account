@@ -3,7 +3,7 @@
 </p>
 
 <h1>Creating a First Resource on Azure</h1>
-This tutorial provides a comprehensive guide on creating your first resource on Azure.<br />
+This tutorial provides a comprehensive guide on creating your first Azure Storage Account.<br />
 
 <h2>Environments and Technologies Used</h2>
 - Microsoft Azure 
