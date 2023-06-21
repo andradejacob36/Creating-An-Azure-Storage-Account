@@ -31,5 +31,27 @@ This tutorial provides a comprehensive guide on creating your first Azure Storag
 </p>
 <p>  
   
-<h2>Step 2: Set up an Azure Virtual Machine and ensure it meets the system requirements for Proton VPN</h2>
+<h2>Step 2: Create a Resource Group</h2>
+
+1.Locate the search bar and type "Research groups".
+
+2.To create a new item, click on the "+ Create" button in the top left corner next to the "Manage View" option.
+   <ol type="a">
+      <li>Choose your subscription (For Ex: Azure Subscription 1).</li>
+      <li>Create a name of your resource group (Use: RG-Lab1).</li>
+      <li>Select the region that aligns perfectly with your requirements and preferences (For Ex: West US 3).</li>   
+    </ol>
+
+3.After typing the specifications, click on the box "Review + create".
+
+4.You should be able to see the following display:
+
+<p>
+<img src="https://i.imgur.com/ILYejQz.png" height="80%" width="80%"/>
+</p>
+<p>   
+
+5.Then click "Create" located at the bottom left corner.
+ 
+- Note: By creating a Resource group, it would be like creating a folder that will hold all of your related resources in one centralized location.
 
