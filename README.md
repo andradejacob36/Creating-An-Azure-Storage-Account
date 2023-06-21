@@ -47,7 +47,7 @@ This tutorial provides a comprehensive guide on creating your first Azure Storag
 4.You should be able to see the following display:
 
 <p>
-<img src="https://i.imgur.com/ILYejQz.png" height="80%" width="80%"/>
+<img src="https://i.imgur.com/ZidiTxR.png" height="80%" width="80%"/>
 </p>
 <p>   
 
