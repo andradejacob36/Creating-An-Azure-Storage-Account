@@ -2,7 +2,7 @@
 <img src="https://i.imgur.com/pU5A58S.png" alt="Microsoft Active Directory Logo"/>
 </p>
 
-<h1>Setting up & Using Proton VPN on Azure: A Comprehensive Guide</h1>
+<h1>Creating a First Resource on Azure</h1>
 This tutorial outlines the implementation of Proton VPN within an Azure Virtual Machine.<br />
 
 <h2>Environments and Technologies Used</h2>
