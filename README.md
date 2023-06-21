@@ -3,15 +3,10 @@
 </p>
 
 <h1>Creating a First Resource on Azure</h1>
-This tutorial outlines the implementation of Proton VPN within an Azure Virtual Machine.<br />
+This tutorial provides a comprehensive guide on creating your first resource on Azure.<br />
 
 <h2>Environments and Technologies Used</h2>
-
 - Microsoft Azure 
-
-<h2>Operating Systems Used </h2>
-
-- Windows 10 Pro, version 21H2 (free services eligible)
 
 <h2>High-Level Deployment and Configuration Steps</h2>
 
