@@ -12,9 +12,9 @@ This tutorial provides a comprehensive guide on creating your first Azure Storag
 
 - Step 1: You need to authenticate and authorize yourself by logging into the Azure portal
 - Step 2: Create a Resource Group
-- Step 3: Re-verify your computer's IPv4 address and city location
-- Step 4: Download and install Proton VPN on the Azure Virtual Machine
-- Step 5: Ensure that Proton VPN is working correctly by performing a connectivity test and verifying that your IP address has been changed
+- Step 3: Create a Storage Account
+- Step 4: 
+- Step 5: 
 
 <h2>Step 1: You need to authenticate and authorize yourself by logging into the Azure portal</h2>
 
@@ -55,3 +55,17 @@ This tutorial provides a comprehensive guide on creating your first Azure Storag
  
 - Note: By creating a Resource group, it would be like creating a folder that will hold all of your related resources in one centralized location.
 
+<h2>Step 3: Create a Storage Account</h2>
+
+1.Locate the search bar and type "Storage accounts".
+
+- Note: The Azure Storage Account offers a wide range of storage options that are both scalable and secure. It comes packed with fantastic features such as redundancy, backups, and access control, ensuring that your data is always protected.
+
+2.Once you have successfully logged in, you will be redirected to the Azure portal dashboard where you can create and manage your resources. 
+
+3.You should be able to see the following display:
+
+<p>
+<img src="https://i.imgur.com/zr0sGpt.png" height="80%" width="80%"/>
+</p>
+<p>  
