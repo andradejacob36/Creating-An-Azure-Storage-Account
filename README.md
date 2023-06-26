@@ -14,6 +14,7 @@ This tutorial provides a comprehensive guide on creating your first Azure Storag
 - Step 2: Create a Resource Group
 - Step 3: Create a Storage Account
 - Step 4: Interaction with your Storage Account
+- Step 5: Editing the Container 
 
 <h2>Step 1: You need to authenticate and authorize yourself by logging into the Azure portal</h2>
 
@@ -60,7 +61,7 @@ This tutorial provides a comprehensive guide on creating your first Azure Storag
 
 - Note: The Azure Storage Account offers a wide range of storage options that are both scalable and secure. It comes packed with fantastic features such as redundancy, backups, and access control, ensuring that your data is always protected.
 
-2. You will be redirected to the Azure Storage Accounts where you can store data.
+2.You will be redirected to the Azure Storage Accounts where you can store data.
 
 3.You should be able to see the following display:
 
@@ -79,16 +80,17 @@ This tutorial provides a comprehensive guide on creating your first Azure Storag
       <li>Select the region that aligns perfectly with your requirements and preferences (For Ex: West US 3).</li> 
       <li>Pick your "Redundancy" depending on what services you need. For this example, I will use "RA-GRS"</li>
     </ol>
-6.After inputting the settings you should have the following: 
+
+- Note: After inputting the settings you should have the following: 
 
 <p> 
 <img src="https://i.imgur.com/Ee0y5dq.png" height="80%" width="80%"/>
 </p>
 <p>  
 
-7.Click Create. Locate the search bar and type "Storage Account".
+6.Click Create. Locate the search bar and type "Storage Account".
 
-8.Your new Storage Account should be available within the "Storage Account" dashboard. 
+7.Your new Storage Account should be available within the "Storage Account" dashboard. 
 
 <p> 
 <img src="https://i.imgur.com/P940HmK.png" height="80%" width="80%"/>
@@ -107,4 +109,52 @@ This tutorial provides a comprehensive guide on creating your first Azure Storag
       <li>Since this is just a lab, I will have my public access level as "Private".</li>
       <li>On the bottom right corner, click the blue "Create" button.</li>
     </ol>
+
+<p> 
+<img src="https://i.imgur.com/Qi6DUn4.png" height="80%" width="80%"/>
+</p>
+<p>  
+
+<h2>Step 5: Editing the Container </h2>
+
+1.Click the newly created folder or container. Mine is called cclab01.
+
+<p> 
+<img src="https://i.imgur.com/xgQIE7x.png" height="80%" width="80%"/>
+</p>
+<p>  
+
+- Note: Here you can finally store whatever data you are allowed to store here. For example, I will demonstrate how to store a Notepad in this folder.
+
+
+2.Open Notepad and type anything within it. 
+   <ol type="a">
+      <li>Make sure to save it on your desktop</li>
+    </ol>
+
+<p> 
+<img src="https://i.imgur.com/absg7Za.png" height="80%" width="80%"/>
+</p>
+<p>  
+
+3.Go back to Azure and upload the Notepad to your folder/container
+   <ol type="a">
+      <li>Click the "upload" button</li>
+      <li>Find "Browse for files"</li>
+      <li>Pick the notepad from your desktop</li>
+      <li>Click the blue "Upload" button</li>
+    </ol>
+
+<p> 
+<img src="https://i.imgur.com/3WVvxmM.png" height="80%" width="80%"/>
+</p>
+<p>  
+
+- Note: You should be able to open/edit/download your Notepad on Azure. Also, be advised that you can in addition store different data such as Blobs, Tables, Queues, Files, etc.
+
+<h2>The End </h2>
+
+  
+ 
+
 
