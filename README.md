@@ -7,6 +7,7 @@ This tutorial provides a comprehensive guide on creating your first Azure Storag
 
 <h2>Environments and Technologies Used</h2>
 - Microsoft Azure 
+- Resource Group
 
 <h2>High-Level Deployment and Configuration Steps</h2>
 
